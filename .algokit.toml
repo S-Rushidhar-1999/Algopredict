@@ -6,4 +6,4 @@ type = 'workspace'
 projects_root_path = 'projects'
 
 [project.run]
-build = ['algopredict.fun-contracts', 'algopredict.fun-frontend']
+build = ['nexpredict-contracts', 'nexpredict-frontend']

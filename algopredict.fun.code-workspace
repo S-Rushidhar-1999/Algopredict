@@ -5,19 +5,19 @@
       "name": "ROOT"
     },
     {
-      "path": "./projects/algopredict.fun-contracts"
+      "path": "./projects/nexpredict-contracts"
     },
     {
-      "path": "./projects/algopredict.fun-frontend"
+      "path": "./projects/nexpredict-frontend"
     },
     {
       "path": "."
     },
     {
-      "path": "projects/algopredict.fun-frontend"
+      "path": "projects/nexpredict-frontend"
     },
     {
-      "path": "projects/algopredict.fun-contracts"
+      "path": "projects/nexpredict-contracts"
     },
     {
       "path": "."
